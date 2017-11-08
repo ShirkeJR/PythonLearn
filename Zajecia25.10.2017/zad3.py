@@ -9,7 +9,7 @@ class Samochod(object):
         self.__predkoscMaksymalna = predkoscMaksymalna
         self.__zuzyciePaliwa = zuzyciePaliwa
     def jedz(self, predkosc, odleglosc):
-        pass
+        if(predkosc < self.__predkoscMaksymalna)
 
 class Kabriolet(Samochod):
     __otwartyDach = None
@@ -22,7 +22,7 @@ class Kabriolet(Samochod):
         self.__otwartyDach = True
     def jedz(self, predkosc, odleglosc):
         paliwo = self.jedz(predkosc, odleglosc)
-        return paliwo + 0.15*paliwo
+        return paliwo + 0.15 * paliwo
 
 s1 = Samochod("Fiat", 15, 100, 2)
 k1 = Kabriolet("Mercedes", 20, 200, 4, False)
