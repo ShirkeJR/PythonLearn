@@ -26,4 +26,3 @@ print xml
 doc = minidom.parseString(xml)
 els = doc.getElementsByTagName("master")[0]
 
-print els
