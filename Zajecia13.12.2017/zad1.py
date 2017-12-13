@@ -1,4 +1,5 @@
 from Tkinter import *
+import logging
 
 class Calc(Frame):
 
@@ -52,6 +53,9 @@ class Calc(Frame):
 
     def oblicz(self):
         wynik = eval(self.string)
+        logger = logging.getLogger("calc::oblicz ")
+        logger.info(wynik)
+        logger.warning("Bledne dane")
         self.Label.pack_forget()
         self.Label = Label(self, text="Wynik: " + str(wynik))
         self.Label.grid(row=5, column=0)
@@ -61,5 +65,7 @@ def main():
     Calc().mainloop()
 
 if __name__ == "__main__":
+    logging.basicConfig(filename="lgger.txt", level=logging.INFO)
     main()
+
 
