@@ -5,10 +5,11 @@ class Calc(Frame):
 
     def __init__(self):
         Frame.__init__(self)
-
+        self.logger = logging.getLogger("Calculator")
+        self.logger.info("Utworzenie calculatora")
         self.string = ""
         self.pack(expand=YES, fill=BOTH)
-        self.master.title("Tytul")
+        self.master.title("Calculator")
 
         self.button1 = Button(self, text="1", fg="black", command=lambda: self.przycisk("1"), width=16, height=1)
         self.button2 = Button(self, text="2", fg="black", command=lambda: self.przycisk("2"), width=16, height=1)
@@ -44,18 +45,21 @@ class Calc(Frame):
         self.buttonwynik.grid(row=3, column=1)
 
         self.Label.grid(row=4, column=0)
+        self.logger.warning("Utworzono instancje kalkulatora")
 
     def przycisk(self, arg):
+        self.logger.info("Przycisniecie przycisku " + arg.title())
         self.string += arg
         self.Podglad.pack_forget()
         self.Podglad = Label(self, text="Dzialanie: " + self.string)
         self.Podglad.grid(row=4, column=0)
 
     def oblicz(self):
+        logging.debug(eval(self.string))
+        self.logger.debug("Odpalenie ")
         wynik = eval(self.string)
-        logger = logging.getLogger("calc::oblicz ")
-        logger.info(wynik)
-        logger.warning("Bledne dane")
+        self.logger.info(wynik)
+        self.logger.warning("Bledne dane")
         self.Label.pack_forget()
         self.Label = Label(self, text="Wynik: " + str(wynik))
         self.Label.grid(row=5, column=0)
