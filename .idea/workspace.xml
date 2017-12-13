@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82627bf8-d762-4d85-880c-240a327e6399" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia06.12.2017/notatki.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia06.12.2017/zad1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia06.12.2017/zad2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia06.12.2017/zad3.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia08.11.2017/.idea/Zajecia08.11.2017.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia08.11.2017/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia08.11.2017/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia08.11.2017/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia15.11.2017/.idea/Zajecia15.11.2017.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia15.11.2017/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia15.11.2017/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia15.11.2017/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia22.11.2017/.idea/Zajecia22.11.2017.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia22.11.2017/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia22.11.2017/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia22.11.2017/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia25.10.2017/.idea/Zajecia25.10.2017.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia25.10.2017/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia25.10.2017/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia25.10.2017/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia29.11.2017/.idea/Zajecia29.11.2017.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia29.11.2017/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia29.11.2017/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zajecia29.11.2017/.idea/workspace.xml" afterPath="" />
-    </list>
+    <list default="true" id="82627bf8-d762-4d85-880c-240a327e6399" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,9 +88,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="301" />
-    <option name="y" value="233" />
+    <option name="y" value="153" />
     <option name="width" value="1053" />
     <option name="height" value="582" />
   </component>
@@ -248,7 +222,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="301" y="233" width="1053" height="582" extended-state="1" />
+    <frame x="301" y="153" width="1053" height="582" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32883316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -256,7 +230,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4434968" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4434968" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
