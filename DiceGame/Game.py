@@ -1,6 +1,5 @@
 import os
-from Player import *
-from Computer import *
+from User import *
 
 
 class Game(object):
@@ -8,8 +7,8 @@ class Game(object):
         self.game_round = 1
         self.computer_points = 0
         self.player_points = 0
-        self.player = Player()
-        self.computer = Computer()
+        self.player = User()
+        self.computer = User()
 
     def start(self):
         while True:
@@ -104,8 +103,12 @@ class Game(object):
         print "Tura komputera...."
         rolls = self.computer.first_roll()
         roll = random.randint(1, 3)
+        best_rule = None
         while rolls >= roll:
             self.computer.show_dices()
+            best_rule = self.computer.best_rule()
+            if self.computer.get_points_from_rule(best_rule) > 40:
+                break
             rolls = self.computer.roll_dices()
-        self.computer_points += self.computer.lock_rule(self.computer.best_rule())
+        self.computer_points += self.computer.lock_rule(best_rule)
         self.computer.clear_round()

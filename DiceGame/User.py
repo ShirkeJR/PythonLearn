@@ -11,6 +11,17 @@ class User(object):
             self.dices.append(Dice())
         self.roll_round = 3
 
+    def possible_rules(self):
+        print ""
+        possibleRules = [rule for rule in RULES if rule not in self.used_rules]
+        i = 0
+        for rule in possibleRules:
+            if i == 6 or i == 9:
+                print ""
+            print "[" + str(rule) + "]." + RULES.get(rule) + "(" + str(self.get_points_from_rule(rule)) + ")",
+            i += 1
+        print "\n"
+
     def get_points_from_rule(self, rule):
         points_from_rule = Rule.calculate_points(rule, self.dices)
         return points_from_rule
@@ -20,14 +31,20 @@ class User(object):
             self.used_rules.append(rule)
         else:
             print "Nie wybrales reguly, wiec wybieram ja za ciebie"
-            rule = self.get_first_possible_rule()
+            rule = self.best_rule()
             self.used_rules.append(rule)
         return self.get_points_from_rule(rule)
 
-    def get_first_possible_rule(self):
-        for rule in RULES:
-            if self.not_used_rule(rule):
-                return rule
+    def best_rule(self):
+        rules = [rule for rule in RULES if rule not in self.used_rules]
+        best_points = 0
+        best_rule = None
+        for rule in rules:
+            points = self.get_points_from_rule(rule)
+            if points >= best_points:
+                best_points = points
+                best_rule = rule
+        return best_rule
 
     def clear_rules(self):
         self.used_rules = []
@@ -67,5 +84,10 @@ class User(object):
         print "\nNa stole: ",
         for dice in self.dices:
             if not dice.is_locked:
+                print " " + str(dice.result),
+        print ""
+        print "W reku: ",
+        for dice in self.dices:
+            if dice.is_locked:
                 print " " + str(dice.result),
         print ""
