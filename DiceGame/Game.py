@@ -33,12 +33,12 @@ class Game(object):
                 pass
 
     def new_game(self):
+        os.system("cls")
         print "\n*Rozpoczynamy gre*"
         print "Punkty gracz " + str(self.player_points)
         print "Punkty komputera " + str(self.computer_points)
         raw_input("(Wcisnij enter, by zaczac potyczke)")
         while self.game_round <= 13:
-            os.system("cls")
             print "---Runda: " + str(self.game_round) + "--------"
             self.player_move()
             self.computer_move()
@@ -87,7 +87,6 @@ class Game(object):
         self.player.clear_round()
 
     def lock_dice(self):
-        os.system("cls")
         self.player.show_dices()
         try:
             diceToTake = input("Ktora kostke zabrac?: ")
@@ -100,7 +99,7 @@ class Game(object):
             print "Nie poprawne dane\n"
 
     def computer_move(self):
-        print "Tura komputera...."
+        print "Tura komputera......................"
         rolls = self.computer.first_roll()
         roll = random.randint(1, 3)
         best_rule = None
