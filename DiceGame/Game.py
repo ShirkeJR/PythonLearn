@@ -27,13 +27,13 @@ class Game(object):
                 os.system("cls")
                 print "Sprobuj ponownie. [1, 2]\n"
             if option == 1:
-                self.newGame()
+                self.new_game()
             elif option == 2:
                 exit(1)
             else:
                 pass
 
-    def newGame(self):
+    def new_game(self):
         print "\n*Rozpoczynamy gre*"
         print "Punkty gracz " + str(self.player_points)
         print "Punkty komputera " + str(self.computer_points)
@@ -41,8 +41,8 @@ class Game(object):
         while self.game_round <= 13:
             os.system("cls")
             print "---Runda: " + str(self.game_round) + "--------"
-            self.playerMove()
-            self.computerMove()
+            self.player_move()
+            self.computer_move()
             self.game_round += 1
             print "\nPunkty gracza: " + str(self.player_points)
             print "Punkty komputera: " + str(self.computer_points)
@@ -53,16 +53,16 @@ class Game(object):
         else:
             print "Komputer wygrywa z " + str(self.computer_points) + " punktami"
         raw_input("(Wcisnij enter, by zakonczyc potyczke)\n")
-        self.clearGame()
+        self.clear_game()
 
-    def clearGame(self):
+    def clear_game(self):
         self.game_round = 1
         self.computer_points = 0
         self.player_points = 0
         self.player.clear_rules()
         self.computer.clear_rules()
 
-    def playerMove(self):
+    def player_move(self):
         raw_input("(Wcisnij enter, bu rzucic kostkami)")
         rolls = self.player.first_roll()
         while rolls >= 0:
@@ -78,7 +78,7 @@ class Game(object):
             except (SyntaxError, NameError, UnboundLocalError):
                 print "Nie poprawna wartosc\n"
             if answer == 1:
-                self.lockDice()
+                self.lock_dice()
             elif answer == 3 and rolls > 0:
                 rolls = self.player.roll_dices()
             elif answer == 2:
@@ -87,7 +87,7 @@ class Game(object):
                 break
         self.player.clear_round()
 
-    def lockDice(self):
+    def lock_dice(self):
         os.system("cls")
         self.player.show_dices()
         try:
@@ -100,7 +100,7 @@ class Game(object):
         except (SyntaxError, NameError):
             print "Nie poprawne dane\n"
 
-    def computerMove(self):
+    def computer_move(self):
         print "Tura komputera...."
         rolls = self.computer.first_roll()
         roll = random.randint(1, 3)
