@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82627bf8-d762-4d85-880c-240a327e6399" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia03.01.2018/notatki.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia03.01.2018/zad1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia03.01.2018/zad2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia03.01.2018/zad3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zajecia03.01.2018/zad4.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DiceGame/Game.py" afterPath="$PROJECT_DIR$/DiceGame/Game.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zajecia13.12.2017/lgger.txt" afterPath="$PROJECT_DIR$/Zajecia13.12.2017/lgger.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,27 +19,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonLab$notatki__1_.coverage" NAME="notatki (1) Coverage Results" MODIFIED="1513177614011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia13.12.2017" />
-    <SUITE FILE_PATH="coverage/PythonLab$notatki.coverage" NAME="notatki Coverage Results" MODIFIED="1512572930950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia06.12.2017" />
-    <SUITE FILE_PATH="coverage/PythonLab$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1513180379009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia13.12.2017" />
+    <SUITE FILE_PATH="coverage/PythonLab$notatki.coverage" NAME="notatki Coverage Results" MODIFIED="1514991620667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia03.01.2018" />
+    <SUITE FILE_PATH="coverage/PythonLab$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1514993836656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia03.01.2018" />
     <SUITE FILE_PATH="coverage/PythonLab$Test.coverage" NAME="Test Coverage Results" MODIFIED="1513715602265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiceGame" />
     <SUITE FILE_PATH="coverage/PythonLab$User.coverage" NAME="User Coverage Results" MODIFIED="1513714668389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiceGame" />
-    <SUITE FILE_PATH="coverage/PythonLab$zad1.coverage" NAME="zad1 Coverage Results" MODIFIED="1512576617677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia06.12.2017" />
-    <SUITE FILE_PATH="coverage/PythonLab$zad3.coverage" NAME="zad3 Coverage Results" MODIFIED="1512577361923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia06.12.2017" />
+    <SUITE FILE_PATH="coverage/PythonLab$zad4.coverage" NAME="zad4 Coverage Results" MODIFIED="1514996864182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia03.01.2018" />
+    <SUITE FILE_PATH="coverage/PythonLab$zad1.coverage" NAME="zad1 Coverage Results" MODIFIED="1514993787118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia03.01.2018" />
+    <SUITE FILE_PATH="coverage/PythonLab$zad3.coverage" NAME="zad3 Coverage Results" MODIFIED="1514995925961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia03.01.2018" />
     <SUITE FILE_PATH="coverage/PythonLab$Main.coverage" NAME="Main Coverage Results" MODIFIED="1513720236291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiceGame" />
     <SUITE FILE_PATH="coverage/PythonLab$zad1__1_.coverage" NAME="zad1 (1) Coverage Results" MODIFIED="1513179644193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia13.12.2017" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zad4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zajecia13.12.2017/zad4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Dice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DiceGame/Dice.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,13 +41,104 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Game.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DiceGame/Game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="251">
-              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notatki.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/notatki.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
+              <folding>
+                <marker date="1514991620612" expanded="true" signature="93:160" ph="CREATE TABLE... test" />
+                <marker date="1514991620612" expanded="true" signature="184:227" ph="INSERT INTO test... " />
+                <marker date="1514991620612" expanded="true" signature="276:294" ph="SELECT * FRO... test" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zad1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="18" />
+              <folding>
+                <marker date="1514993159347" expanded="true" signature="79:273" ph="CREATE TABLE... test" />
+                <marker date="1514993159347" expanded="true" signature="326:417" ph="INSERT INTO test... " />
+                <marker date="1514993159347" expanded="true" signature="444:525" ph="INSERT INTO KSIAZKA... " />
+                <marker date="1514993159347" expanded="true" signature="552:649" ph="INSERT INTO KSIAZKA... " />
+                <marker date="1514993159347" expanded="true" signature="686:707" ph="SELECT * FRO... KSIAZKA" />
+                <marker date="1514993159347" expanded="true" signature="769:812" ph="DELETE FROM " />
+                <marker date="1514993159347" expanded="true" signature="859:880" ph="SELECT * FRO... KSIAZKA" />
+                <marker date="1514993159347" expanded="true" signature="942:960" ph="DROP TABLE K... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zad2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <marker date="1514994153028" expanded="true" signature="79:273" ph="CREATE TABLE... KSIAZKA" />
+                <marker date="1514994153028" expanded="true" signature="326:417" ph="INSERT INTO KSIAZKA... " />
+                <marker date="1514994153028" expanded="true" signature="444:525" ph="INSERT INTO KSIAZKA... " />
+                <marker date="1514994153028" expanded="true" signature="552:649" ph="INSERT INTO KSIAZKA... " />
+                <marker date="1514994153028" expanded="true" signature="706:727" ph="SELECT * FRO... KSIAZKA" />
+                <marker date="1514994153028" expanded="true" signature="833:916" ph="INSERT INTO KSIAZKA... " />
+                <marker date="1514994153028" expanded="true" signature="975:996" ph="SELECT * FRO... KSIAZKA" />
+                <marker date="1514994153028" expanded="true" signature="1057:1075" ph="DROP TABLE K... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zad3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <marker date="1514995925899" expanded="true" signature="80:238" ph="CREATE TABLE... KSIAZKA" />
+                <marker date="1514995925899" expanded="true" signature="266:385" ph="CREATE TABLE... AUTOR" />
+                <marker date="1514995925899" expanded="true" signature="266:386" ph="CREATE TABLE... AUTOR" />
+                <marker date="1514995925899" expanded="true" signature="266:861" ph="CREATE TABLE... AUTOR" />
+                <marker date="1514995925899" expanded="true" signature="414:642" ph="CREATE TABLE... KSIAZKA_AUTOR" />
+                <marker date="1514995925899" expanded="true" signature="414:643" ph="CREATE TABLE... KSIAZKA_AUTOR" />
+                <marker date="1514995925899" expanded="true" signature="697:715" ph="DROP TABLE K... " />
+                <marker date="1514995925899" expanded="true" signature="743:759" ph="DROP TABLE A... " />
+                <marker date="1514995925899" expanded="true" signature="787:811" ph="DROP TABLE K... " />
+                <marker date="1514995925899" expanded="true" signature="864:930" ph="INSERT INTO KSIAZKA... " />
+                <marker date="1514995925899" expanded="true" signature="983:1031" ph="INSERT INTO AUTOR... " />
+                <marker date="1514995925899" expanded="true" signature="1082:1114" ph="INSERT INTO KSIAZKA_AUTOR... " />
+                <marker date="1514995925899" expanded="true" signature="1082:1121" ph="INSERT INTO KSIAZKA_AUTOR... " />
+                <marker date="1514995925899" expanded="true" signature="1199:1220" ph="SELECT * FRO... KSIAZKA" />
+                <marker date="1514995925899" expanded="true" signature="1294:1313" ph="SELECT * FRO... AUTOR" />
+                <marker date="1514995925899" expanded="true" signature="1387:1414" ph="SELECT * FRO... KSIAZKA_AUTOR" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zad4.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,7 +148,7 @@
         <entry file="file://$PROJECT_DIR$/DiceGame/Main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -71,17 +158,7 @@
         <entry file="file://$PROJECT_DIR$/DiceGame/Rule.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constants.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DiceGame/constants.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -90,7 +167,7 @@
       <file leaf-file-name="User.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DiceGame/User.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-748">
+            <state relative-caret-position="187">
               <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -136,6 +213,11 @@
         <option value="$PROJECT_DIR$/DiceGame/Player.py" />
         <option value="$PROJECT_DIR$/DiceGame/User.py" />
         <option value="$PROJECT_DIR$/DiceGame/Game.py" />
+        <option value="$PROJECT_DIR$/Zajecia03.01.2018/notatki.py" />
+        <option value="$PROJECT_DIR$/Zajecia03.01.2018/zad1.py" />
+        <option value="$PROJECT_DIR$/Zajecia03.01.2018/zad2.py" />
+        <option value="$PROJECT_DIR$/Zajecia03.01.2018/zad3.py" />
+        <option value="$PROJECT_DIR$/Zajecia03.01.2018/zad4.py" />
       </list>
     </option>
   </component>
@@ -145,7 +227,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="52" />
     <option name="y" value="120" />
     <option name="width" value="1421" />
@@ -166,6 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,19 +259,19 @@
             <path>
               <item name="PythonLab" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLab" type="462c0819:PsiDirectoryNode" />
-              <item name="DiceGame" type="462c0819:PsiDirectoryNode" />
+              <item name="Zajecia03.01.2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,75 +285,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Main">
-    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.zad4">
+    <configuration name="notatki" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiceGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia03.01.2018" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLab" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiceGame/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia03.01.2018/notatki.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zad1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiceGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia03.01.2018" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLab" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiceGame/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="User" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiceGame" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLab" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiceGame/User.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="zad1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia13.12.2017" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLab" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia13.12.2017/zad1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia03.01.2018/zad1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,31 +329,67 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia13.12.2017" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia03.01.2018" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLab" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia13.12.2017/zad2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia03.01.2018/zad2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia03.01.2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia03.01.2018/zad3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="zad4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia03.01.2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia03.01.2018/zad4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.zad1 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.zad2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.User" />
+      <item index="0" class="java.lang.String" itemvalue="Python.notatki" />
+      <item index="1" class="java.lang.String" itemvalue="Python.zad1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.zad2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.zad3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.zad4" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.User" />
-        <item index="3" class="java.lang.String" itemvalue="Python.zad2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.zad1 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.zad4" />
+        <item index="1" class="java.lang.String" itemvalue="Python.zad3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.zad2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.zad1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.notatki" />
       </list>
     </recent_temporary>
   </component>
@@ -324,19 +407,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="120" width="1421" height="820" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34092528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1669107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18670438" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30269414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39872748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39302695" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -363,14 +447,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Zajecia13.12.2017/zad4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DiceGame/Dice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -636,7 +712,7 @@
     <entry file="file://$PROJECT_DIR$/DiceGame/constants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -652,14 +728,14 @@
     <entry file="file://$PROJECT_DIR$/DiceGame/Rule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DiceGame/User.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-748">
+        <state relative-caret-position="187">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -670,7 +746,7 @@
     <entry file="file://$PROJECT_DIR$/DiceGame/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -678,9 +754,90 @@
     <entry file="file://$PROJECT_DIR$/DiceGame/Game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
-          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/notatki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <marker date="1514991620612" expanded="true" signature="93:160" ph="CREATE TABLE... test" />
+            <marker date="1514991620612" expanded="true" signature="184:227" ph="INSERT INTO test... " />
+            <marker date="1514991620612" expanded="true" signature="276:294" ph="SELECT * FRO... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <marker date="1514994153028" expanded="true" signature="79:273" ph="CREATE TABLE... KSIAZKA" />
+            <marker date="1514994153028" expanded="true" signature="326:417" ph="INSERT INTO KSIAZKA... " />
+            <marker date="1514994153028" expanded="true" signature="444:525" ph="INSERT INTO KSIAZKA... " />
+            <marker date="1514994153028" expanded="true" signature="552:649" ph="INSERT INTO KSIAZKA... " />
+            <marker date="1514994153028" expanded="true" signature="706:727" ph="SELECT * FRO... KSIAZKA" />
+            <marker date="1514994153028" expanded="true" signature="833:916" ph="INSERT INTO KSIAZKA... " />
+            <marker date="1514994153028" expanded="true" signature="975:996" ph="SELECT * FRO... KSIAZKA" />
+            <marker date="1514994153028" expanded="true" signature="1057:1075" ph="DROP TABLE K... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <marker date="1514993159347" expanded="true" signature="79:273" ph="CREATE TABLE... test" />
+            <marker date="1514993159347" expanded="true" signature="326:417" ph="INSERT INTO test... " />
+            <marker date="1514993159347" expanded="true" signature="444:525" ph="INSERT INTO KSIAZKA... " />
+            <marker date="1514993159347" expanded="true" signature="552:649" ph="INSERT INTO KSIAZKA... " />
+            <marker date="1514993159347" expanded="true" signature="686:707" ph="SELECT * FRO... KSIAZKA" />
+            <marker date="1514993159347" expanded="true" signature="769:812" ph="DELETE FROM " />
+            <marker date="1514993159347" expanded="true" signature="859:880" ph="SELECT * FRO... KSIAZKA" />
+            <marker date="1514993159347" expanded="true" signature="942:960" ph="DROP TABLE K... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1514995925899" expanded="true" signature="80:238" ph="CREATE TABLE... KSIAZKA" />
+            <marker date="1514995925899" expanded="true" signature="266:385" ph="CREATE TABLE... AUTOR" />
+            <marker date="1514995925899" expanded="true" signature="266:386" ph="CREATE TABLE... AUTOR" />
+            <marker date="1514995925899" expanded="true" signature="266:861" ph="CREATE TABLE... AUTOR" />
+            <marker date="1514995925899" expanded="true" signature="414:642" ph="CREATE TABLE... KSIAZKA_AUTOR" />
+            <marker date="1514995925899" expanded="true" signature="414:643" ph="CREATE TABLE... KSIAZKA_AUTOR" />
+            <marker date="1514995925899" expanded="true" signature="697:715" ph="DROP TABLE K... " />
+            <marker date="1514995925899" expanded="true" signature="743:759" ph="DROP TABLE A... " />
+            <marker date="1514995925899" expanded="true" signature="787:811" ph="DROP TABLE K... " />
+            <marker date="1514995925899" expanded="true" signature="864:930" ph="INSERT INTO KSIAZKA... " />
+            <marker date="1514995925899" expanded="true" signature="983:1031" ph="INSERT INTO AUTOR... " />
+            <marker date="1514995925899" expanded="true" signature="1082:1114" ph="INSERT INTO KSIAZKA_AUTOR... " />
+            <marker date="1514995925899" expanded="true" signature="1082:1121" ph="INSERT INTO KSIAZKA_AUTOR... " />
+            <marker date="1514995925899" expanded="true" signature="1199:1220" ph="SELECT * FRO... KSIAZKA" />
+            <marker date="1514995925899" expanded="true" signature="1294:1313" ph="SELECT * FRO... AUTOR" />
+            <marker date="1514995925899" expanded="true" signature="1387:1414" ph="SELECT * FRO... KSIAZKA_AUTOR" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zajecia03.01.2018/zad4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>

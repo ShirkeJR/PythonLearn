@@ -15,3 +15,5 @@ INFO:Calculator:Przycisniecie przycisku *
 INFO:Calculator:Przycisniecie przycisku 3
 INFO:Calculator:6
 WARNING:Calculator:Bledne dane
+INFO:Calculator:Utworzenie calculatora
+WARNING:Calculator:Utworzono instancje kalkulatora
