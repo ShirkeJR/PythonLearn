@@ -7,12 +7,6 @@ class Ksiazka(dict):
         self.isbn = isbn
         self.autor = autor
 
-
-if len(sys.argv) == 1:
-    exit(1)
-
-
-
 obiekty = []
 
 
@@ -41,7 +35,7 @@ def odczyt():
         obiekty = json.loads(infile)
 
 
-def loop():
+def main():
     print '------------------------------'
     print '1. Dodawanie'
     print '2. Wyswietlanie'
@@ -62,11 +56,11 @@ def loop():
         odczyt()
     else:
         exit(0)
+    main()
 
-    loop()
+if __name__ == '__main__':
+    main()
 
-
-loop()
 
 
 

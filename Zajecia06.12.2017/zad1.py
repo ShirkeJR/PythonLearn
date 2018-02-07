@@ -1,39 +1,28 @@
 from Tkinter import *
+import Tkinter as tk
 import tkMessageBox
 
-
-def helloButton1():
-    tkMessageBox.showinfo("","Hello, here Tkinter")
-
-def ChangeButtonColour():
-   if(var.get() == 1):
-       b.config(fg="red")
-   elif(var.get() == 2):
-       b.config(fg="green")
-   elif(var.get() == 3):
-       b.config(fg="blue")
-       
-def SelectColour():
-   if(var.get() == 1):
-       return "red"
-   elif(var.get() == 2):
-       return "green"
-   elif(var.get() == 3):
-       return "blue"
-
-
-root = Tk()
-root.title("Hello Tkinter")
-root.geometry("200x100")
-b1 = Button(root, text = "Witam", fg = "balck", command = helloButton1).pack()
+okno = tk.Tk()
 
 MODES = [
-        ("green", 1),
-        ("red", 2),
-        ("black", 3),
+        ("czerwony", "red"),
+        ("zielony", "green"),
+        ("niebieski", "blue")
     ]
-var = IntVar()
+
+
+var = StringVar()
+var.set("red")  # initialize
+btn = Button(okno, text="Klik", command=lambda: tkMessageBox.showinfo("Hello in Tkinter"))
+
+
+def changeColor():
+    btn.configure(foreground=var.get())
+
+
 for text, mode in MODES:
-    b = Radiobutton(root, text=text, variable = var, value=mode, command = ChangeButtonColour).pack(anchor=W)
-label = Label(root).pack()
-root.mainloop()
+    b = Radiobutton(okno, text=text, variable=var, value=mode, command=changeColor).pack(anchor=W)
+
+btn.pack(anchor=W)
+
+okno.mainloop()

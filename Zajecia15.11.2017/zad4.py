@@ -1,13 +1,10 @@
 import re
 
-def sprawdz(pesell):
-    if (re.match('[0-9]{11}$', pesell)):
-        print "OK"
+def checkPesel(pesel):
+    if re.match('[0-9]{11}$', pesel):
+        print 'Pesel poprawny'
     else:
-        print "NIE"
+        print 'Pesel niepoprawny'
 
-pesel = "9506271343"
 
-sprawdz(pesel)
-
-#dokończyć
+checkPesel('95091313292')

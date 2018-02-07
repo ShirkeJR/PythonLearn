@@ -2,16 +2,15 @@ import urllib2
 from xml.dom import minidom
 
 
-response = urllib2.urlopen("http://webmaster.helion.pl/starocie/xml/pierwszy_dokument.htm")
-html = response.read()
+response = urllib2.urlopen("http://webmaster.helion.pl/starocie/xml/pierwszy_dokument.htm").read()
 
-print html
+print response
 
-elements = minidom.parse(html)
-th1 = elements.getElementsByTagName('h1')
+elements = minidom.parseString(response)
+th1 = elements.getElementsByTagName("h1")
 
-for ele in th1
-    #name = ele.getAttribute()
-    #print name
+for element in elements:
+        el = element.getElementsByTagName("title")
+        print el
 
 
